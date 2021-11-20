@@ -1,0 +1,37 @@
+.content-wrapper {
+    padding: 50px 100px;
+}
+.content-wrapper  h2{
+    font-weight: 600;
+    text-align: center;
+}
+.content-wrapper  .btn_add{
+    width: 200px;
+}
+.content-wrapper .information table{
+    width: 100%;
+}
+.content-wrapper .information table td{
+    padding: 10px;
+    font-size: 18px;
+}
+.content-wrapper .information table td a i{
+    font-size: 20px;
+}
+.content-wrapper .information table td:first-child{
+    width: 20%;
+}
+.content-wrapper .information table td:nth-child(2) ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.content-wrapper .information table td:last-child{
+    width: 10%;
+    text-align: center;
+}
+.content-wrapper .information table td:last-child a{
+    margin: 10px;
+}
+
+
